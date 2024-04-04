@@ -921,8 +921,9 @@
 #section7 .section7_container {
   width: 90%;
   margin: 0 auto;
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
 }
 #section7 .section7_container .section7_about {
   margin-top: 40px;
@@ -990,9 +991,8 @@
   margin-top: 30px;
   width: 90%;
   margin: 0 auto;
-  display: grid;
+  display: flex;
   gap: 20px;
-  grid-template-columns: repeat(4, 1fr);
 }
 #section8 .section8_container .card {
   width: 450px;

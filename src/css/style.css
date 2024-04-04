@@ -919,10 +919,9 @@
   letter-spacing: 3px;
 }
 #section7 .section7_container {
-  width: 90%;
-  margin: 0 auto;
+  width: 100%;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   gap: 10px;
 }
 #section7 .section7_container .section7_about {

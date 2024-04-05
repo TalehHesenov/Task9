@@ -927,7 +927,7 @@
 #section7 .section7_container .section7_about {
   margin-top: 40px;
   display: flex;
-  gap: 20px;
+  gap: 10px;
 }
 #section7 .section7_container .section7_about .img_div {
   width: 90px;
@@ -938,7 +938,7 @@
   height: 90px;
 }
 #section7 .section7_container .section7_about .text_div {
-  width: 350px;
+  width: 300px;
   height: 190px;
 }
 #section7 .section7_container .section7_about .text_div h3 {
